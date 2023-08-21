@@ -15,7 +15,7 @@
          "KC_N"        , "KC_M"        , "LALT_T(KC_COMM)", "LCTL_T(KC_DOT)", "KC_SLSH",
 
          "KC_ESC"       , "KC_BSPC",
-         "LT(7,KC_SPC)", "KC_TAB"
+         "LT(7,KC_SPC)", "LT(8,KC_TAB)"
         ],
         ["KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"       , "KC_TRNS",
          "KC_TRNS"     , "KC_BTN1"     , "KC_WH_U"        , "KC_BTN2"       , "KC_TRNS",
@@ -100,6 +100,18 @@
 
          "KC_TRNS"     , "KC_TAB",
          "KC_NO"       , "KC_TRNS"
+        ],
+        ["KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"   , "KC_TRNS",
+         "KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"   , "KC_TRNS",
+
+         "KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"   , "KC_TRNS",
+         "KC_TRNS"     , "KC_LGUI"     , "KC_TRNS"        , "KC_TRNS"   , "KC_TRNS",
+
+         "KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"   , "KC_TRNS",
+         "KC_TRNS"      , "KC_TRNS"    , "KC_TRNS"        , "KC_TRNS"   , "KC_TRNS",
+
+         "KC_TRNS"     , "KC_TRNS",
+         "KC_TRNS"     , "KC_NO"
         ]
     ],
     "author": "@suorcd"
